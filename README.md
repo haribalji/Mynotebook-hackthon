@@ -135,6 +135,29 @@ Mynotebook app is ready to go 😊
 -If the student is a new user to this application then get details of the student 
 ![image](https://github.com/user-attachments/assets/810ad1b1-d8f4-4db2-a5ef-416521c49573)
 
+-if the student is already a member to this application then for them directly show the subject with respect to their classs 
+
+
+![image](https://github.com/user-attachments/assets/3dbd78da-c7b7-452d-9c21-9b7d46068989)
+
+
+- And There all the chapters to that particular subject will be displayed:
+
+  
+![image](https://github.com/user-attachments/assets/239fc0cd-e753-4b2c-9573-2f4a60987576)
+
+-if they click any chapter then 
+-imporant topic
+-allowing the user to add notes with respect to chapter
+-make checklist with respect to chapter to track progress
+
+![image](https://github.com/user-attachments/assets/1cbc3d67-02e1-48f0-8212-71763f026287)
+
+
+-allowing the user to upload the documents like question paper ,photos and other files
+![image](https://github.com/user-attachments/assets/ed58fa88-eaa4-4891-a958-b7a50ec6a7bd)
+
+
 
 Security Note:
 
