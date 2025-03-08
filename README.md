@@ -110,6 +110,13 @@ Troubleshooting:
 Mynotebook app is ready to go 😊
 
 
+-Demo video: https://drive.google.com/file/d/1d8WE7IytVLk58VFxH0YF5t9Hy6MeF7QY/view?usp=sharing
+
+
+
+
+
+
 ## 📸 Screenshot
 
 
@@ -191,10 +198,9 @@ Adding the checklist-
 ![image](https://github.com/user-attachments/assets/7e85f5f5-d60c-4212-88e8-ba9068eccf35)
 
 
-Demo video:
 
 
-https://drive.google.com/file/d/1x0WKYP34FU5poGfzgz-Qf-84Zo_Pdzk9/view?usp=sharing
+
 
 Security Note:
 
