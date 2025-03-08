@@ -23,6 +23,7 @@ for testing knowledgeand an AI Summarizer for quick note summarization.
 
 🧠 AI Summarizer: AI-powered tool to summarize notes efficiently.
    -Auto-summarizes long notes into concise, easy-to-read points.  
+   - speech mode for the content is provided in tamil and english
 
 📁 Cloud Storage: Notes and media are stored securely using MongoDB.
 - Notes, images, and media files are stored in the cloud.  
@@ -175,10 +176,11 @@ Adding the checklist-
 ![image](https://github.com/user-attachments/assets/3f6e820c-d72c-4370-a4e1-23e814808302)
 
 -concise content will produced in both tamil and english:
-![image](https://github.com/user-attachments/assets/1d68d52e-24b4-46c6-a606-dcddb895f2b8)
 
-![image](https://github.com/user-attachments/assets/60564da8-6e97-4188-bb07-90224c354402)
+-the speech mode for the content is provided in tamil and english
 
+
+![image](https://github.com/user-attachments/assets/cdfd556f-69ea-4d06-b8ec-f10ee26b83ec)
 
 -Quizzess feature created to track 1 mark question  for student 
 
