@@ -23,8 +23,8 @@ for testing knowledgeand an AI Summarizer for quick note summarization and provi
 
 🧠 AI Summarizer: AI-powered tool to summarize notes efficiently.
       
-     -Auto-summarizes long notes into concise, easy-to-read points.  
-    - speech mode for the content is provided in tamil and english language
+   -Auto-summarizes long notes into concise, easy-to-read points.  
+   - speech mode for the content is provided in tamil and english language
 
 📁 Cloud Storage: Notes and media are stored securely using MongoDB.
 - Notes, images, and media files are stored in the cloud.  
@@ -39,69 +39,71 @@ for testing knowledgeand an AI Summarizer for quick note summarization and provi
    
 git clone https://github.com/haribalji/Mynotebook-hackthon.git
 
->>cd Mynotebook-hackthon
+    -cd Mynotebook-hackthon
 
 
 2) Install Dependencies
 
 Backend Setup:
 
->>cd backend
->>npm install
+     -cd backend
+    -npm install
 
 As we use  Python for AI Summarizer: 
 
->>pip install -r requirements.txt
+    -pip install -r requirements.txt
 
 
 Frontend Setup use another terminal :
->>cd Mynotebook-hackthon
->>npm install
+     
+       -cd Mynotebook-hackthon
+     -npm install
 
 
 3️) Setup Environment Variables:
 
 Create a ".env" file inside the "backend" folder:
 
->>cd backend
->>touch .env
+     -cd backend
+     -touch .env
 
 Then, copy the values from ".env" and fill in your own credentials:
 
 "backend/.env" -->path of the file
-GOOGLE_API_KEY=your_google_api_key
-PORT=3000
-JWT_SECRET=your_jwt_secret
-mongoURI=your_mongodb_connection_string
+           
+            GOOGLE_API_KEY=your_google_api_key
+            PORT=3000
+            JWT_SECRET=your_jwt_secret
+            mongoURI=your_mongodb_connection_string
 
 
 4)Start the Application:
 
  **Backend**
 
->>cd backend
->>nodemon index.js
+    cd backend
+    nodemon index.js
 
 
 **Frontend**
 
->>cd Mynotebook-hackthon
->>npm start
+     cd Mynotebook-hackthon
+     npm start
 
 5)Open in Browser:
 
-Visit: http://localhost:3000
+Visit:http://localhost:3000
 
 Troubleshooting:
 
 -->If "npm install" fails, try:
  
->>npm cache clean --force
->>npm install
+>>      npm cache clean --force
+>>      npm install
 
 --> If ".env" variables are missing, verify:
 
->>cat backend/.env
+>>      cat backend/.env
   
 
 
@@ -198,13 +200,13 @@ Security Note:
 
 Do not  push ".env" to GitHub. Ensure it is added to ".gitignore":
 
->>backend/.env
+>>        backend/.env
 
 If ".env" was accidentally committed, remove it:
 
-git rm --cached backend/.env
-git commit -m "Removed .env from tracking"
-git push origin main
+             git rm --cached backend/.env
+             git commit -m "Removed .env from tracking"
+             git push origin main
 
 
 
