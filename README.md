@@ -106,6 +106,10 @@ Troubleshooting:
 Mynotebook app is ready to go 😊
 
 
+--Home page
+
+![image](https://github.com/user-attachments/assets/87a6ddab-0684-44f4-92ba-2f17fac36163)
+
 
 
 
