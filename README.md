@@ -1,4 +1,4 @@
-# 📝 Mynotebook - Hackathon Project
+# 📝 Mynotebook  Project
 
 📌 Overview 
 Mynotebook is a web-based application designed for managing notes, storing photos,
@@ -8,17 +8,26 @@ for testing knowledgeand an AI Summarizer for quick note summarization.
 
 🚀 Features
 📂 Organized Note-Taking: Store notes under specific subjects and chapters.
+   - Easy CRUD (Create, Read, Update, Delete) operations for managing notes.  
 
 📸 Media Support: Attach photos, videos, and audio to notes.
+   - Supports  images, videos, and audio recordings.  
 
 🔑 User Authentication: Secure login using JWT authentication.
 
 💪 Student Quizzes: Interactive quizzes for students to test their knowledge.
+   
+✅ Checklist Management 
+  -Users can create chapter-wise checklists for tracking progress.  
+  -Provides a clear study roadmap* to improve productivity.  
 
 🧠 AI Summarizer: AI-powered tool to summarize notes efficiently.
+   -Auto-summarizes long notes into concise, easy-to-read points.  
 
 📁 Cloud Storage: Notes and media are stored securely using MongoDB.
-
+- Notes, images, and media files are stored in the cloud.  
+- Users can access their notes from any device.  
+- Ensures no data loss even if the device is changed.  
 
 
 
@@ -95,6 +104,10 @@ Troubleshooting:
 
 
 Mynotebook app is ready to go 😊
+
+
+
+
 
 
 
