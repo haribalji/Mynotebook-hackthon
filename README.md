@@ -181,9 +181,7 @@ Adding the checklist-
 
 
 -Quizzess feature created to track 1 mark question  for student 
-
-![image](https://github.com/user-attachments/assets/c79bd6a2-5288-496c-8d24-a1c7725da91a)
-
+![Uploading image.png…]()
 
 
 
