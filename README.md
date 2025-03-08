@@ -28,34 +28,34 @@ for testing knowledgeand an AI Summarizer for quick note summarization.
    
 git clone https://github.com/haribalji/Mynotebook-hackthon.git
 
-cd Mynotebook-hackthon
+>>cd Mynotebook-hackthon
 
 
 2) Install Dependencies
 
-**Backend Setup**
+Backend Setup:
 
-cd backend
-npm install
+>>cd backend
+>>npm install
 
 As we use  Python for AI Summarizer: 
 
-pip install -r requirements.txt
+>>pip install -r requirements.txt
 
 
-Frontend Setup use another terminal 
-cd Mynotebook-hackthon
-npm install
+Frontend Setup use another terminal :
+>>cd Mynotebook-hackthon
+>>npm install
 
 
-3️) Setup Environment Variables
+3️) Setup Environment Variables:
 
 Create a ".env" file inside the "backend" folder:
 
-cd backend
-touch .env
+>>cd backend
+>>touch .env
 
-Then, copy the values from `.env.example` and fill in your own credentials:
+Then, copy the values from ".env" and fill in your own credentials:
 
 "backend/.env" -->path of the file
 GOOGLE_API_KEY=your_google_api_key
@@ -64,40 +64,46 @@ JWT_SECRET=your_jwt_secret
 mongoURI=your_mongodb_connection_string
 
 
-
-4) Start the Application**
+4)Start the Application:
 
  **Backend**
 
-cd backend
-nodemon index.js
+>>cd backend
+>>nodemon index.js
 
 
-#### **Frontend**
+**Frontend**
 
-cd Mynotebook-hackthon
-npm start
+>>cd Mynotebook-hackthon
+>>npm start
 
+5)Open in Browser:
 
-5) Open in Browser**
 Visit: http://localhost:3000
 
-##  Troubleshooting:
-- If "npm install" fails, try:
+Troubleshooting:
+
+-->If "npm install" fails, try:
  
-  npm cache clean --force
-  npm install
+>>npm cache clean --force
+>>npm install
 
+--> If ".env" variables are missing, verify:
+
+>>cat backend/.env
   
-- If ".env" variables are missing, verify:
 
-  cat backend/.env
-  
 
- Security Note:
-Do NOT push ".env" to GitHub**. Ensure it is added to ".gitignore":
+Mynotebook app is ready to go 😊
 
-backend/.env
+
+
+
+Security Note:
+
+Do not  push ".env" to GitHub. Ensure it is added to ".gitignore":
+
+>>backend/.env
 
 If ".env" was accidentally committed, remove it:
 
@@ -107,5 +113,4 @@ git push origin main
 
 
 
-Mynotebook app is ready to go 😊
 
