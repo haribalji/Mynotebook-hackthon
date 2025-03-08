@@ -4,7 +4,7 @@
 Mynotebook is a web-based application designed for managing notes, storing photos,
 videos, and audio separately for each class, subject, and chapter. Users can easily create,
 update, and delete notes with a responsive and user-friendly interface. Additionally, it includes Student Quizzes
-for testing knowledgeand an AI Summarizer for quick note summarization.
+for testing knowledgeand an AI Summarizer for quick note summarization and providing speech mode for the content  in tamil and english language.
 
 🚀 Features
 📂 Organized Note-Taking: Store notes under specific subjects and chapters.
@@ -22,8 +22,9 @@ for testing knowledgeand an AI Summarizer for quick note summarization.
   -Provides a clear study roadmap* to improve productivity.  
 
 🧠 AI Summarizer: AI-powered tool to summarize notes efficiently.
-   -Auto-summarizes long notes into concise, easy-to-read points.  
-   - speech mode for the content is provided in tamil and english
+      
+     -Auto-summarizes long notes into concise, easy-to-read points.  
+    - speech mode for the content is provided in tamil and english language
 
 📁 Cloud Storage: Notes and media are stored securely using MongoDB.
 - Notes, images, and media files are stored in the cloud.  
