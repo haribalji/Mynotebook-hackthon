@@ -153,9 +153,37 @@ Mynotebook app is ready to go 😊
 
 ![image](https://github.com/user-attachments/assets/1cbc3d67-02e1-48f0-8212-71763f026287)
 
+Taking notes-
+![image](https://github.com/user-attachments/assets/545a81c8-bbc7-4930-ae5d-9c31ae219694)
+
+Adding the checklist-
+![image](https://github.com/user-attachments/assets/e4199ba4-3663-477b-a5a8-9e28e3c9e83d)
+
 
 -allowing the user to upload the documents like question paper ,photos and other files
 ![image](https://github.com/user-attachments/assets/ed58fa88-eaa4-4891-a958-b7a50ec6a7bd)
+
+
+
+-allowing the user to take picture and record voice note
+
+![image](https://github.com/user-attachments/assets/e84dfc7c-a088-480d-9dd8-3146783fe20a)
+
+
+-Here the user allowed to insert the long content present files in this summarize document 
+
+![image](https://github.com/user-attachments/assets/3f6e820c-d72c-4370-a4e1-23e814808302)
+
+-concise content will produced in both tamil and english:
+![image](https://github.com/user-attachments/assets/1d68d52e-24b4-46c6-a606-dcddb895f2b8)
+
+![image](https://github.com/user-attachments/assets/60564da8-6e97-4188-bb07-90224c354402)
+
+
+-Quizzess feature created to track 1 mark question  for student 
+
+![image](https://github.com/user-attachments/assets/c79bd6a2-5288-496c-8d24-a1c7725da91a)
+
 
 
 
