@@ -1,4 +1,4 @@
-# 📝 Mynotebook  Project
+![Screenshot 2025-03-08 135525](https://github.com/user-attachments/assets/01dfc913-c372-41a5-9bc4-7c19085897e6)# 📝 Mynotebook  Project
 
 📌 Overview 
 Mynotebook is a web-based application designed for managing notes, storing photos,
@@ -106,14 +106,34 @@ Troubleshooting:
 Mynotebook app is ready to go 😊
 
 
+## 📸 Screenshot
+
+
+-->if the  user is already exists then they can login inside the application
+
+![image](https://github.com/user-attachments/assets/6dcd69ce-f387-4aa8-8be9-be8e75a952ae)
+
+
+
+-->if the New User then move to sign page  by clicking the new user button  from the login page 
+![image](https://github.com/user-attachments/assets/20f4d26c-5d30-4994-9dd2-cbf2a8de882b)
+
+
+
+
+
+
 --Home page
 
 ![image](https://github.com/user-attachments/assets/87a6ddab-0684-44f4-92ba-2f17fac36163)
 
 
+-saved general  notes can be visible:
 
+![Screenshot 2025-03-08 135525](https://github.com/user-attachments/assets/7d39a036-3a1e-473e-a464-b334ad510d1a)
 
-
+-If the student is a new user to this application then get details of the student 
+![image](https://github.com/user-attachments/assets/810ad1b1-d8f4-4db2-a5ef-416521c49573)
 
 
 Security Note:
