@@ -1,4 +1,4 @@
-![Screenshot 2025-03-08 135525](https://github.com/user-attachments/assets/01dfc913-c372-41a5-9bc4-7c19085897e6)# 📝 Mynotebook  Project
+# 📝 Mynotebook  Project
 
 📌 Overview 
 Mynotebook is a web-based application designed for managing notes, storing photos,
@@ -181,7 +181,9 @@ Adding the checklist-
 
 
 -Quizzess feature created to track 1 mark question  for student 
-![Uploading image.png…]()
+
+
+![image](https://github.com/user-attachments/assets/7e85f5f5-d60c-4212-88e8-ba9068eccf35)
 
 
 
