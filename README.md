@@ -188,7 +188,8 @@ Adding the checklist-
 
 Demo video:
 
-https://drive.google.com/file/d/1x0WKYP34FU5poGfzgz-Qf-84Zo_Pdzk9/view?usp=drive_link
+
+https://drive.google.com/file/d/1x0WKYP34FU5poGfzgz-Qf-84Zo_Pdzk9/view?usp=sharing
 
 Security Note:
 
