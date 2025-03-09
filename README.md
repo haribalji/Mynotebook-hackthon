@@ -4,7 +4,7 @@
 Mynotebook is a web-based application designed for managing notes, storing photos,
 videos, and audio separately for each class, subject, and chapter. Users can easily create,
 update, and delete notes with a responsive and user-friendly interface. Additionally, it includes Student Quizzes
-for testing knowledgeand an AI Summarizer for quick note summarization and providing speech mode for the content  in tamil and english language.
+for testing knowledgeand an AI Summarizer for quick note summarization and providing speech mode for the content  in tamil and english language which also allows the disability people to use our product.
 
 🚀 Features
 📂 Organized Note-Taking: Store notes under specific subjects and chapters.
@@ -39,33 +39,33 @@ for testing knowledgeand an AI Summarizer for quick note summarization and provi
    
 git clone https://github.com/haribalji/Mynotebook-hackthon.git
 
-    -cd Mynotebook-hackthon
+    cd Mynotebook-hackthon
 
 
 2) Install Dependencies
 
 Backend Setup:
 
-     -cd backend
-    -npm install
+     cd backend
+    npm install
 
 As we use  Python for AI Summarizer: 
 
-    -pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
-Frontend Setup use another terminal :
-     
-       -cd Mynotebook-hackthon
-     -npm install
+For Frontend Setup use another terminal :
+   -here you are  already in  corect path just excute this command
+   
+     npm install
 
 
 3️) Setup Environment Variables:
 
 Create a ".env" file inside the "backend" folder:
 
-     -cd backend
-     -touch .env
+     cd backend
+     touch .env
 
 Then, copy the values from ".env" and fill in your own credentials:
 
