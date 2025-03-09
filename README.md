@@ -1,7 +1,9 @@
 # 📝 Mynotebook  Project
 
-📌 Overview 
-Mynotebook is a web-based application designed for managing notes, storing photos,
+📌 Overview: 
+
+
+ MyNotebook can significantly help individuals with dyslexia disease and  Mynotebook is a web-based application designed for managing notes, storing photos,
 videos, and audio separately for each class, subject, and chapter. Users can easily create,
 update, and delete notes with a responsive and user-friendly interface. Additionally, it includes Student Quizzes
 for testing knowledgeand an AI Summarizer for quick note summarization and providing speech mode for the content  in tamil and english language which also allows the disability people to use our product.
