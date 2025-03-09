@@ -55,8 +55,8 @@ As we use  Python for AI Summarizer:
 
 
 For Frontend Setup use another terminal :
-   -here you are  already in  corect path just excute this command
-   
+    
+     cd Mynotebook-hackthon
      npm install
 
 
